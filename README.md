@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Homework - Py Me Up, Charlie
 
 ## Background
@@ -111,3 +112,6 @@ Both of these challenges encompasses a real-world situation where your newfound 
 ## Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+=======
+# python_challenge
+>>>>>>> 97012a5334b31988da5776f6a60bc53f1646e686
