@@ -75,7 +75,9 @@ text =(
 #set a new STRING variable to loop different names in the list ''is to including numbers, text,etcs
 stringer=''
 #set a new for statement to search for string of names
+
 for key in candidates:   
+    percentage= candidates[key]/totalvotes*100
     stringer+= f"{key}:{percentage:,.3f}% ({str(candidates[key])})\n"
    
   
